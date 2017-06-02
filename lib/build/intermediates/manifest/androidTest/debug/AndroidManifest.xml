@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="github.ankushsachdeva.emojicon.test" >
+    package="github.ibrahimgharyali.emojicon.test" >
 
     <uses-sdk
         android:minSdkVersion="16"
@@ -10,8 +10,8 @@
         android:name="android.test.InstrumentationTestRunner"
         android:functionalTest="false"
         android:handleProfiling="false"
-        android:label="Tests for github.ankushsachdeva.emojicon.test"
-        android:targetPackage="github.ankushsachdeva.emojicon.test" />
+        android:label="Tests for github.ibrahimgharyali.emojicon.test"
+        android:targetPackage="github.ibrahimgharyali.emojicon.test" />
 
     <meta-data
         android:name="android.support.VERSION"

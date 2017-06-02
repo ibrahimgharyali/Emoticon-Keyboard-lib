@@ -9,11 +9,11 @@ import android.view.ViewTreeObserver;
 import android.widget.FrameLayout;
 import android.widget.PopupWindow;
 
-import github.ankushsachdeva.emojicon.EmojiconEditText;
-import github.ankushsachdeva.emojicon.EmojiconGridView;
-import github.ankushsachdeva.emojicon.EmojiconTextView;
-import github.ankushsachdeva.emojicon.EmojiconsPopup;
-import github.ankushsachdeva.emojicon.emoji.Emojicon;
+import github.ibrahimgharyali.emojicon.EmojiconEditText;
+import github.ibrahimgharyali.emojicon.EmojiconGridView;
+import github.ibrahimgharyali.emojicon.EmojiconTextView;
+import github.ibrahimgharyali.emojicon.EmojiconsPopup;
+import github.ibrahimgharyali.emojicon.emoji.Emojicon;
 
 public class JustEmojiKeyboardActivity extends AppCompatActivity {
 
