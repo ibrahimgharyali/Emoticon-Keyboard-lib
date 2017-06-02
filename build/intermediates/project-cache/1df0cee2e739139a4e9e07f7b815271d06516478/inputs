@@ -1,0 +1,6 @@
+COMMAND=PREDEX_LIBRARY_TO_DEX_ARCHIVE
+FILE_PATH=/home/ibrahim/Desktop/dev/projects/demo/emoji_demo_ibu/example/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar
+FILE_HASH=49b30727c1c81fc4f434f0edbd82a7b76ee88a0e
+DX_VERSION=1.13
+JUMBO_MODE=true
+OPTIMIZE=true

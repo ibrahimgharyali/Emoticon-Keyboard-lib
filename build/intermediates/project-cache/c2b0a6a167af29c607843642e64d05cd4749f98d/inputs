@@ -1,0 +1,6 @@
+COMMAND=PREDEX_LIBRARY_TO_DEX_ARCHIVE
+FILE_PATH=/home/ibrahim/Desktop/dev/projects/demo/Emoticon-Keyboard-demo/example/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar
+FILE_HASH=38583e6c7caaec1ea0854519f7bfc4983771e18a
+DX_VERSION=1.13
+JUMBO_MODE=true
+OPTIMIZE=true

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/ibrahim/Desktop/dev/projects/demo/Emoticon-Keyboard-demo/lib/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/ibrahim/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/7a981a102db53b22ce69ca6c6abfda06/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/ibrahim/Desktop/dev/projects/demo/Emoticon-Keyboard-demo/lib/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/ibrahim/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/7a981a102db53b22ce69ca6c6abfda06/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/ibrahim/Desktop/dev/projects/demo/Emoticon-Keyboard-demo/lib/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/ibrahim/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/7a981a102db53b22ce69ca6c6abfda06/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/ibrahim/Desktop/dev/projects/demo/Emoticon-Keyboard-demo/lib/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/ibrahim/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/7a981a102db53b22ce69ca6c6abfda06/res/layout-v21/notification_action.xml"
+    }
+]

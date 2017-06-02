@@ -1,0 +1,6 @@
+COMMAND=PREDEX_LIBRARY_TO_DEX_ARCHIVE
+FILE_PATH=/home/ibrahim/Desktop/dev/projects/demo/emoji_demo_ibu/lib/build/intermediates/bundles/default/classes.jar
+FILE_HASH=b8129ba549c917504ba441658f685a21189d4ba1
+DX_VERSION=1.13
+JUMBO_MODE=false
+OPTIMIZE=true
