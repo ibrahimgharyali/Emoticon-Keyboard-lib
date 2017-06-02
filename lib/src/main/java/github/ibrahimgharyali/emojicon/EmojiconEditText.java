@@ -1,5 +1,5 @@
 /*
- * Copyright 2014 Ankush Sachdeva
+ * Copyright 2017 Ibrahim Gharyali
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -20,13 +20,14 @@ import github.ibrahimgharyali.emojicon.R;
 
 import android.content.Context;
 import android.content.res.TypedArray;
+import android.support.v7.widget.AppCompatEditText;
 import android.util.AttributeSet;
 import android.widget.EditText;
 
 /**
  * @author Hieu Rocker (rockerhieu@gmail.com).
  */
-public class EmojiconEditText extends EditText {
+public class EmojiconEditText extends AppCompatEditText {
     private int mEmojiconSize;
 
     public EmojiconEditText(Context context) {

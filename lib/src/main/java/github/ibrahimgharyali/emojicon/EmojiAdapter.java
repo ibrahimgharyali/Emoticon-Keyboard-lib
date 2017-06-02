@@ -1,5 +1,5 @@
 /*
- * Copyright 2014 Ankush Sachdeva
+ * Copyright 2017 Ibrahim Gharyali
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -27,9 +27,6 @@ import android.view.View.OnClickListener;
 import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
 import android.widget.TextView;
-
-import github.ibrahimgharyali.emojicon.R;
-
 /**
  * @author Ankush Sachdeva (sankush@yahoo.co.in)
  */
