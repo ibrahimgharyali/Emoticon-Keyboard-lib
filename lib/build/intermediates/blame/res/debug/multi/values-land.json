@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/home/ibrahim/Desktop/dev/projects/demo/Emoticon-Keyboard-demo/lib/build/intermediates/res/merged/debug/values-land/values-land.xml",
+        "outputFile": "/home/ibrahim/Desktop/dev/projects/demo/Emoticon-Keyboard/lib/build/intermediates/res/merged/debug/values-land/values-land.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 120
                 },
                 "from": {
-                    "file": "/home/ibrahim/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/7a981a102db53b22ce69ca6c6abfda06/res/values-land/values-land.xml",
+                    "file": "/home/ibrahim/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/cac2d454b8e7f6a7f7ff40fdaecf71ed/res/values-land/values-land.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 184
                 },
                 "from": {
-                    "file": "/home/ibrahim/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/7a981a102db53b22ce69ca6c6abfda06/res/values-land/values-land.xml",
+                    "file": "/home/ibrahim/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/cac2d454b8e7f6a7f7ff40fdaecf71ed/res/values-land/values-land.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 255
                 },
                 "from": {
-                    "file": "/home/ibrahim/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/7a981a102db53b22ce69ca6c6abfda06/res/values-land/values-land.xml",
+                    "file": "/home/ibrahim/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/cac2d454b8e7f6a7f7ff40fdaecf71ed/res/values-land/values-land.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -68,7 +68,7 @@
                     "endOffset": 323
                 },
                 "from": {
-                    "file": "/home/ibrahim/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/7a981a102db53b22ce69ca6c6abfda06/res/values-land/values-land.xml",
+                    "file": "/home/ibrahim/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/cac2d454b8e7f6a7f7ff40fdaecf71ed/res/values-land/values-land.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,

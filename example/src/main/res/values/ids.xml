@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <item name="emojicons" type="id" />
-    <item name="emoji_textview" type="id" />
-    <item name="snack_bar_tv" type="id" />
-    <item name="emoji_keyboard" type="id" />
-</resources>

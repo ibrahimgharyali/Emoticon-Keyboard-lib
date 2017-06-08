@@ -16,10 +16,12 @@
 
 package github.ibrahimgharyali.emojicon;
 
-import github.ibrahimgharyali.emojicon.R;
 
 import android.content.Context;
 import android.content.res.TypedArray;
+import android.os.Build;
+import android.support.annotation.Nullable;
+import android.support.annotation.RequiresApi;
 import android.support.v7.widget.AppCompatTextView;
 import android.text.SpannableStringBuilder;
 import android.util.AttributeSet;
@@ -47,6 +49,7 @@ public class EmojiconTextView extends AppCompatTextView {
         super(context, attrs, defStyle);
         init(attrs);
     }
+
 
     private void init(AttributeSet attrs) {
         if (attrs == null) {
