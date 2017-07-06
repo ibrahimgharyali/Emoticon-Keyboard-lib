@@ -1,18 +1,18 @@
 [
     {
         "merged": "/home/ibrahim/Desktop/dev/projects/demo/Emoticon-Keyboard/lib/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
-        "source": "/home/ibrahim/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/cac2d454b8e7f6a7f7ff40fdaecf71ed/res/layout-v21/notification_action.xml"
+        "source": "/home/ibrahim/.android/build-cache/7f486ef1b505904317233bdc557f98cf2a18868c/output/res/layout-v21/notification_action.xml"
     },
     {
         "merged": "/home/ibrahim/Desktop/dev/projects/demo/Emoticon-Keyboard/lib/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
-        "source": "/home/ibrahim/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/cac2d454b8e7f6a7f7ff40fdaecf71ed/res/layout-v21/notification_template_icon_group.xml"
+        "source": "/home/ibrahim/.android/build-cache/7f486ef1b505904317233bdc557f98cf2a18868c/output/res/layout-v21/notification_template_icon_group.xml"
     },
     {
         "merged": "/home/ibrahim/Desktop/dev/projects/demo/Emoticon-Keyboard/lib/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
-        "source": "/home/ibrahim/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/cac2d454b8e7f6a7f7ff40fdaecf71ed/res/layout-v21/notification_template_custom_big.xml"
+        "source": "/home/ibrahim/.android/build-cache/7f486ef1b505904317233bdc557f98cf2a18868c/output/res/layout-v21/notification_template_custom_big.xml"
     },
     {
         "merged": "/home/ibrahim/Desktop/dev/projects/demo/Emoticon-Keyboard/lib/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
-        "source": "/home/ibrahim/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/cac2d454b8e7f6a7f7ff40fdaecf71ed/res/layout-v21/notification_action_tombstone.xml"
+        "source": "/home/ibrahim/.android/build-cache/7f486ef1b505904317233bdc557f98cf2a18868c/output/res/layout-v21/notification_action_tombstone.xml"
     }
 ]

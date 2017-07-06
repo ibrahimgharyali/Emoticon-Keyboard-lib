@@ -1,10 +1,10 @@
 [
     {
         "merged": "/home/ibrahim/Desktop/dev/projects/demo/Emoticon-Keyboard/lib/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
-        "source": "/home/ibrahim/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/cac2d454b8e7f6a7f7ff40fdaecf71ed/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+        "source": "/home/ibrahim/.android/build-cache/7f486ef1b505904317233bdc557f98cf2a18868c/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
     },
     {
         "merged": "/home/ibrahim/Desktop/dev/projects/demo/Emoticon-Keyboard/lib/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
-        "source": "/home/ibrahim/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/cac2d454b8e7f6a7f7ff40fdaecf71ed/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+        "source": "/home/ibrahim/.android/build-cache/7f486ef1b505904317233bdc557f98cf2a18868c/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
     }
 ]

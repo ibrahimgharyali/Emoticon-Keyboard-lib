@@ -30,6 +30,7 @@ import java.util.List;
 import android.app.Activity;
 import android.content.Context;
 import android.graphics.Rect;
+import android.graphics.drawable.ColorDrawable;
 import android.os.Build;
 import android.os.Handler;
 import android.os.SystemClock;
@@ -80,7 +81,10 @@ public class EmojiconsPopup extends PopupWindow implements ViewPager.OnPageChang
 		setContentView(customView);
 //		setSoftInputMode(LayoutParams.SOFT_INPUT_STATE_ALWAYS_VISIBLE);
 		//default size 
-		setSize(LayoutParams.MATCH_PARENT, (int) mContext.getResources().getDimension(R.dimen.keyboard_height));	}
+		setSize(LayoutParams.MATCH_PARENT, (int) mContext.getResources().getDimension(R.dimen.keyboard_height));
+		setBackgroundDrawable(new ColorDrawable(0));
+		setOutsideTouchable(true);
+	}
 	/**
 	 * Set the listener for the event of keyboard opening or closing.
 	 */
